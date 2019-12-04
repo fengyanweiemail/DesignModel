@@ -1,4 +1,4 @@
-package design.model.designModel.factoryDesignModel.simpleFactory;
+package design.model.designModel.factoryDesignModel.methodFactory;
 
 /**
  * Created by fyw on 2019/12/4.
