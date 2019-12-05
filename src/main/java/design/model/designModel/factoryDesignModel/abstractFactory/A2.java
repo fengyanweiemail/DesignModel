@@ -7,4 +7,6 @@ public class A2 extends A {
     public A2() {
         this.name = "小红";
     }
+
+
 }

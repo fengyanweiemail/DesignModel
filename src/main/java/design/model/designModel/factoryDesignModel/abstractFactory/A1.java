@@ -7,4 +7,5 @@ public class A1 extends A {
     public A1() {
         this.name = "小明";
     }
+    
 }
