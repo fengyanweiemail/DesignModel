@@ -22,6 +22,7 @@ public class TestA {
         a.setSex("男");
         A a1 = (A)a.clone();
         a1.setName("小红");
+        System.out.println(a.hashCode()+":::"+a1.hashCode());
         System.out.println("a:"+a+"---name的hascode:"+a.getName().hashCode());
         System.out.println("a1:"+a1+"---name的hascode:"+a1.getName().hashCode());
     }
